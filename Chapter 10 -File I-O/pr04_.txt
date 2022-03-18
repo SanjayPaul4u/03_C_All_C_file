@@ -1,0 +1,2 @@
+The name and salary of employe 1 is: Sanjay, 45.545399 
+The name and salary of employe 2 is: mou, 352651.250000 

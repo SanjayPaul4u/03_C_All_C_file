@@ -1,0 +1,1 @@
+70   <------ This value is modified(double) from file " prevFile.txt" 

@@ -1,0 +1,1 @@
+//Question no 7 is already done in practice set 5 by "typedef".
